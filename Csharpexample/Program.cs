@@ -109,16 +109,16 @@ namespace Csharpexample
             //    Console.WriteLine(item);
             //}
             //Arrary 
-            string[] colours; //declare an array
-            int count = 0;
-            while (true)
-            {
-                Console.WriteLine("Enter a Colour Name");
-                colours = new string[] { Console.ReadLine() };
-                Console.WriteLine(colours[0]);
-                count++;
+            //string[] colours; //declare an array
+            //int count = 0;
+            //while (true)
+            //{
+            //    Console.WriteLine("Enter a Colour Name");
+            //    colours = new string[] { Console.ReadLine() };
+            //    Console.WriteLine(colours[0]);
+            //    count++;
             
-            }
+            //}
 
         }
     }
